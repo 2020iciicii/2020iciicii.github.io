@@ -1,0 +1,86 @@
+.welcome h2, 
+.introduction h2, 
+.topics h2, 
+.organizers h2, 
+.partners h2, 
+.academic-committee h2, 
+.local-organizing-committee h2 {
+    max-width: 1600px; /* 或其他宽度，根据需要调整 */
+    margin: 0 auto; /* 使标题居中 */
+    text-align: justify; /* 使标题两端对齐 */
+}
+
+.welcome p, 
+.introduction p, 
+.topics p, 
+.organizers p, 
+.partners p, 
+.academic-committee p, 
+.local-organizing-committee p {
+    text-align: justify; /* 使正文内容两端对齐 */
+}
+
+.welcome, 
+.introduction, 
+.topics, 
+.organizers, 
+.partners, 
+.academic-committee, 
+.local-organizing-committee {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+ul {
+    list-style-position: inside; /* 列表项目符号的位置 */
+    margin-left: 0; /* 移除列表左边距 */
+}
+
+h1 {
+    text-align: center; /* 两端对齐 */
+    width: 100%; /* 宽度设置为100% */
+    max-width: 3000px; /* 设置一个最大宽度，可以根据需要调整 */
+    margin: 0 auto; /* 使标题居中 */
+    padding: 0 20px; /* 内边距以确保内容不会紧贴边缘 */
+}
+
+.content {
+    text-align: center; /* 正文内容两端对齐 */
+    width: 100%; /* 宽度设置为100% */
+    max-width: 3000px; /* 设置最大宽度，可以根据需要调整 */
+    margin: 0 auto; /* 使内容居中 */
+    padding: 0 80px; /* 内边距 */
+}
+
+
+.talk-container {
+    max-width: 2000px; /* 设置最大宽度 */
+    margin: 0 auto; /* 居中对齐 */
+    padding: 20px; /* 内边距 */
+    text-align: justify; /* 两端对齐 */
+}
+
+.talk-header {
+    display: flex; /* 使用弹性布局 */
+    justify-content: space-between; /* 在主轴上分配空间 */
+    align-items: flex-start; /* 纵轴上顶部对齐 */
+}
+
+.presenter-photo {
+    width: 72px; /* 照片宽度（约一寸） */
+    height: 96px; /* 照片高度（约一寸） */
+    margin-left: 20px; /* 照片左边距 */
+    object-fit: cover; /* 确保图片填充区域，不失真 */
+}
+
+h2, h3 {
+    text-align: left; /* 左对齐标题 */
+}
+
+p, ul {
+    margin: 10px 0; /* 段落上下边距 */
+}
+
