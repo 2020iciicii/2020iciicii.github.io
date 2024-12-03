@@ -42,68 +42,6 @@ redirect_from:
                 <li><a href="talk1-29/">Prof. Alex Noel Joseph Raj: Hybrid U-NET models for lesion segmentation in Medical Images</a></li>
             </ul>
         </div>
-        <div class="speech-column">
-            <h2>2021</h2>
-            <ul>
-                <li><a href="talk2-1/">Prof. Leonid Alekseevich Ivanov: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</a></li>
-                <li><a href="talk2-2/">Prof. Qingfu Zhang: Decomposition Based Multiobjective Evolutionary Computation</a></li>
-                <li><a href="talk2-3/">Prof. Kaushik Rajashekara: Power Electronics and Communications with Intelligent Control Enabled Smart Grid</a></li>
-                <li><a href="talk2-4/">Prof. Zengguang Hou: Enhancement of Engagement Based on BCI for Rehabilitation Robotics</a></li>
-                <li><a href="talk2-5/">Prof. Xinye Cai: Some Advances in Optimization Based on Computational Intelligence and Their Applications in Aviation</a></li>
-                <li><a href="talk2-6/">Prof. Hui Li: Variable-Length Optimization via Evolutionary Computation</a></li>
-                <li><a href="talk2-7/">Prof. Zhou Zhao: Intelligent Interaction-Oriented Multimodal Semantic Understanding</a></li>
-                <li><a href="talk2-8/">Prof. Shane Xie: Reconfigurable Exoskeleton with Enhanced Autonomy and Intelligence for Effective Home-Based Rehabilitation</a></li>
-                <li><a href="talk2-9/">Prof. Arturo Suman Bretas: Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation</a></li>
-                <li><a href="talk2-10/">Prof. Haibin Zhu: E-CARGO and Role-Based Collaboration</a></li>
-                <li><a href="talk2-11/">Prof. Han Huang: Applications of Optimization Based on Computational Intelligence</a></li>
-                <li><a href="talk2-12/">Prof. Jianyong Sun: Research on Optimization Algorithm Based on Artificial Intelligence -- Preliminary Progress</a></li>
-                <li><a href="talk2-13/">Prof. Xiaomin Zhu: Research on the Aggregation and Emergence of Swarm Intelligence Based on the Evolutionary Mechanism of Organisms</a></li>
-                <li><a href="talk2-14/">Prof. Yun Liang: Generic Interactive Pixel-Level Image Editing</a></li>
-                <li><a href="talk2-15/">Prof. Lijun Zhang: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</a></li>
-                <li><a href="talk2-16/">Prof. Lijie Li: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</a></li>
-                <li><a href="talk2-17/">Prof. Yaochu Jin: Privacy-Preserving Data-Driven Evolutionary Optimization</a></li>
-                <li><a href="talk2-18/">Dr. Shuo Deng: Electron Transport through Dynamic Semiconductor Junction</a></li>
-            </ul>
-        </div>
-        <div class="speech-column">
-            <h2>2022</h2>
-            <ul>
-                <li><a href="talk3-1/">Prof. Wenjun Zhang: Some Landmark works of Madan M. Gupta with his Collaborators</a></li>
-                <li><a href="talk3-2/">Prof. Dingfang Chen : "Smart Manufacturing" the Popularization of Science Report</a></li>
-                <li><a href="talk3-3/">Prof. Qingfu Zhang: Use of Models in MOEA/D</a></li>
-                <li><a href="talk3-4/">Prof. Shouyong Jiang: When Evolutionary Computation Meets Biology</a></li>
-                <li><a href="talk3-5/">Prof. Zhifeng Hao: New Thoughts of Sciences Inspired by the Metaverse</a></li>
-                <li><a href="talk3-6/">Prof. Kaushik Rajashekara: Energy Impacts of Autonomous and Connected Vehicles and the Future Trends</a></li>
-                <li><a href="talk3-7/">Prof. Haibin Zhu: Computational Social Simulation using E-CARGO</a></li>
-                <li><a href="talk3-8/">Prof. Leonid Ivanov: Promising Areas of Research and Techonlogical Cooperation in Different Fields of Engineering</a></li>
-                <li><a href="talk3-9/">Prof. Jiang Zhu: Challenge for the Next Generation Smart Manufacturing Revolutionized by Digital Technology-- Towards the Realization for Super Smart Society (Society 5.0)</a></li>
-                <li><a href="talk3-10/">Prof. Huawei Tu: Human-Computer Interaction Design Based on the Crossing Paradigm</a></li>
-                <li><a href="talk3-11/">Prof. Jiang Wu: Evaluation of Nonlinear Vibration Characteristics and Stiffness Compensation of Functional Polymer Ultrasonic Actuators</a></li>
-                <li><a href="talk3-12/">Prof. Arturo Suman Bretas: Towards Smart Grids Enhanced Situation Awareness: A Bi-Level Quasi-Static State Estimation Model</a></li>
-                <li><a href="talk3-13/">Prof. Yanjie Wang : Ionic Flexible Sensors: from Mechanism, Fabrication to Applications</a></li>
-                <li><a href="talk3-14/">Prof. Hui Cheng: Control and Perception of Intelligent Robots</a></li>
-                <li><a href="talk3-15/">Prof. Xiaomin Zhu: Automatic Design Method of Behavior Logic for Swarm Robotics</a></li>
-                <li><a href="talk3-16/">Prof. Liangming Chen: Angle Rigidity Graph Theory for Multi-agent Formations</a></li>
-                <li><a href="talk3-17/">Prof. Geng Zhang: An Introduction to Hyperspectral Imaging Technology and Its Potential Applications in Intelligent System</a></li>
-                <li><a href="talk3-18/">Prof. Zhongtao Fu: Lie-Theory-Based Robot Kinematics-Dynamics Modelling and Application</a></li>
-                <li><a href="talk3-19/">Prof. Chunxu Li: Core Research on Human-robot Skill Transfer:an Application to Human-centred Domestic Caregiving Robots</a></li>
-                <li><a href="talk3-20/">Prof. Qing Zhang: Dynamic Semiconductor Junctions for Mechanical-to-electric Power Conversion and Sensing</a></li>
-            </ul>
-        </div>
-        <div class="speech-column">
-            <h2>2023</h2>
-            <ul>
-                <li><a href="talk4-1/">Prof. Dingfang Chen: Frontiers in Intelligent Manufacturing</a></li>
-                <li><a href="talk4-2/">Prof. Kaushik Rajashekara: Current and Future Trends in Transportation Electrification</a></li>
-                <li><a href="talk4-3/">Prof. Zengguang Hou: Intelligent Rehabilitation Technology Based on Brain-Computer Interface</a></li>
-                <li><a href="talk4-4/">Prof. Haibin Zhu: Group Role Assignment with Constraints(GRA+): A New Category of Assignment Problems</a></li>
-                <li><a href="talk4-5/">Prof. Lijie Li: Wireless Free Space Optical Communications</a></li>
-                <li><a href="talk4-6/">Prof. Arturo Suman Bretas: Proactive Frequency Stability Scheme via Bayesian Filters and Synchrophasors</a></li>
-                <li><a href="talk4-7/">Prof. Shuangbao Ma: Cloth Defect Detection Method Based on Deep Learning</a></li>
-                <li><a href="talk4-8/">Prof. Junwei Zhou: Unified Syslog Anomaly Detection Using Deep Learning</a></li>
-                <li><a href="talk4-9/">Prof. Leisheng Jin: Information Processing of Industrial Dynamics Systems Using Reservoir Computing</a></li>
-            </ul>
-        </div>
     </div>
 </div>
 
@@ -117,7 +55,7 @@ redirect_from:
 }
 
 .speech-column {
-    width: 22%; /* 设置每列宽度为 22%，以便能够容纳四列，并留出间隙 */
+    width: 50%; /* 设置每列宽度为 22%，以便能够容纳四列，并留出间隙 */
     box-sizing: border-box; /* 确保 padding 和 border 不影响整体宽度 */
     padding: 10px;
     background-color: #f9f9f9; /* 给每列添加背景色，使它们更明显 */
@@ -142,7 +80,7 @@ redirect_from:
     background-color: #f1f1f1;
     border: 1px solid #ddd;
     border-radius: 5px;
-    height: 155px; /* 设置固定高度，确保每个框的大小一致 */
+    height: 200px; /* 设置固定高度，确保每个框的大小一致 */
     display: flex;
     align-items: center; /* 使文字在框内垂直居中 */
     transition: transform 0.3s, box-shadow 0.3s;
@@ -165,10 +103,11 @@ redirect_from:
     text-decoration: underline;
 }
 
+
 .speech-container {
-    position: relative; /* 相对定位，允许正常滚动 */
-    width: 100vw; /* 占满整个视口宽度，避免受父容器的影响 */
-    margin-left: calc(50% - 50vw); /* 强制使容器的起始点扩展到页面边界 */
+    position: relative; /* 可选：如果不想保持相对定位，删除这行 */
+    width: 100vw; /* 删除这一行，使容器不再强制占满整个视口宽度 */
+    margin-left: calc(50% - 50vw); /* 删除这一行，取消强制容器宽度从页面边界开始 */
     padding: 30px;
     background-color: #ffffff;
     border-radius: 10px;
