@@ -6,7 +6,7 @@ redirect_from:
 
 {% include base_path %}
 <div class="conference-program-container">
-  <h1 class="program-title">Conference Program - ICIICII 2021</h1>
+  <h1 class="program-title">Conference Program - ICIICII 2020</h1>
 
   <!-- Dec. 16-18 -->
   <h2>Conference Program - Dec. 16-18, 2020</h2>
