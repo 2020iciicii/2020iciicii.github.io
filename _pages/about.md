@@ -83,7 +83,6 @@ redirect_from:
 </div>
 
 <h2>ICIICII 2020 Program (Dec. 18-19, 2020) China Standard Time, GMT+8</h2>
-<p>Keynote Speech (Zoom ID: 526 108 1124; Password:123456)</p>
 
 <table border="1">
     <thead>
@@ -107,7 +106,7 @@ redirect_from:
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td rowspan="4">Dec. 18</td>
+            <td rowspan="2">Dec. 18</td>
             <td>10:00-10:10</td>
             <td>Break</td>
             <td></td>
@@ -118,6 +117,7 @@ redirect_from:
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
+            <td rowspan="2">Dec. 18</td>
             <td>11:10-12:10</td>
             <td>Keynote Speech 4<br>Speaker: Prof. Dunwei Gong<br>Title: 进化优化与知识共融的软件变异测试</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
@@ -159,21 +159,6 @@ redirect_from:
             <td>Keynote Speech 9<br>Speaker: Prof. Yaochu Jin<br>Title: Communication-efficient federated learning</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
-    </tbody>
-</table>
-
-<h3>Invited Speech Venue One (Zoom ID: 526 108 1124; Password:123456)</h3>
-
-<table border="1">
-    <thead>
-        <tr>
-            <th>Date</th>
-            <th>Time</th>
-            <th>Content</th>
-            <th>Chair</th>
-        </tr>
-    </thead>
-    <tbody>
         <tr>
             <td rowspan="4">Dec. 19</td>
             <td>8:30-9:30</td>
@@ -254,13 +239,24 @@ redirect_from:
         <tr>
             <td rowspan="2">Dec. 19</td>
             <td>9:10-9:50</td>
-            <td>Invited Speech 1<br>Speaker: Prof. Bo Liu<br>Title: 基于多目标优化算法的资源调度与分配问题研究</td>
-            <td>Dr. Lin He / Dr. Wenji Li</td>
+            <td>Invited Speech 1<br>Speaker: Prof. Haibin Zhu<br>Title: From Group Role Assignment (GRA) to GRA with Constraints (GRA+) and GRA with Multiple Objectives (GRA++)</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
         </tr>
         <tr>
             <td>9:50-10:30</td>
-            <td>Invited Speech 2<br>Speaker: Prof. Chenglin Xu<br>Title: Applying evolutionary computation to the wireless sensor network problem</td>
-            <td>Dr. Lin He / Dr. Wenji Li</td>
+            <td>Invited Speech 2<br>Speaker: Prof. Heping Chen<br>Title: Intelligent Manufacturing Processes Using Industrial Robots</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Dec. 19</td>
+            <td>10:30-10:40</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:40-11:20</td>
+            <td>Invited Speech 3<br>Speaker: Prof. Yiping Liu<br>Title: Handling imbalance between convergence and diversity in the decision space in evolutionary multi-modal multi-objective optimization</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
         </tr>
     </tbody>
 </table>
