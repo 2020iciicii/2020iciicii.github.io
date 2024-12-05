@@ -150,7 +150,8 @@ redirect_from:
             <td><br>Speaker: Prof. Menglun Tao<br>Title: Smart materials and actuators for ultrasonic assisted machining and micro/nano positioning</td>
             <td>Yutong Yuan / Dr. Wenji Li</td>
         </tr>
-<h3>Invited Speech Venue one (Zoom ID: 526 108 1124; Password: 123456)</h3>
+<h3>Invited Speech Venue one</h3>
+<h3>(Zoom ID: 526 108 1124; Password: 123456)</h3>
 <table border="1">
     <thead>
         <tr>
@@ -222,7 +223,8 @@ redirect_from:
             <td><br>Speaker: Prof. Alex Noel Joseph Raj<br>Title: Hybrid U-NET models for lesion segmentation in Medical Images</td>
             <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
         </tr>
-<h3>Invited Speech Venue two (Zoom ID: 846 562 4744; Password: 123456)</h3>
+<h3>Invited Speech Venue two</h3>
+<h3>(Zoom ID: 846 562 4744; Password: 123456)</h3>
     </tbody>
 </table>
 
