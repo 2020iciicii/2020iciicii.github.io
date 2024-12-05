@@ -80,7 +80,7 @@ redirect_from:
     </tr>
     <tr>
       <td><strong>Conference Date:</strong></td>
-      <td>December 16-18, 2020</td>
+      <td>December 18-19, 2020</td>
     </tr>
   </table>
 </div>
@@ -120,7 +120,7 @@ redirect_from:
 
   /* Subtitle */
   .cfp-subtitle {
-    font-size: 1.8em;
+    font-size: 1.5em;
     color: #2980B9;
     margin-top: 40px;
     margin-bottom: 20px;
