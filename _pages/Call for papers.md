@@ -7,7 +7,7 @@ redirect_from:
 <div class="cfp-container">
   <h1 class="cfp-title">Call for Papers</h1>
   <p class="cfp-intro">
-    The 2020 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2020) will be held from <strong>16-18 December 2020</strong> in <strong>Shantou, China</strong>.
+    The 2020 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2020) will be held from <strong>18-19 December 2020</strong> in <strong>Shantou, China</strong>.
   </p>
 
   <p class="cfp-details">
