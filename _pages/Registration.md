@@ -39,13 +39,18 @@ redirect_from:
       <tbody>
         <tr>
           <td>Dec. 18, 2020</td>
-          <td>Invited Speech #1</td>
-          <td>944 8859 3478</td>
+          <td>Keynote Speech</td>
+          <td>526 108 1124</td>
         </tr>
         <tr>
           <td>Dec. 19, 2020</td>
-          <td>Invited Speech #2</td>
-          <td>944 8859 3478</td>
+          <td>Invited Speech Venue One</td>
+          <td>526 108 1124</td>
+        </tr>
+        <tr>
+          <td>Dec. 19, 2020</td>
+          <td>Invited Speech Venue Two</td>
+          <td>846 562 4744</td>
         </tr>
       </tbody>
     </table>
