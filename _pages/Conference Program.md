@@ -5,10 +5,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div class="conference-program-container">
-  <h1 class="program-title">Conference Program - ICIICII 2020</h1>
+<h1 class="program-title">Conference Program - ICIICII 2020</h1>
 
- <h2>ICIICII 2020 Program (Dec. 18-19, 2020) China Standard Time, GMT+8</h2>
 <h3>Keynote Speech (Zoom ID: 526 108 1124; Password: 123456)</h3>
 <table border="1">
     <thead>
