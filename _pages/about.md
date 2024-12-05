@@ -239,7 +239,7 @@ redirect_from:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="4">Dec. 19</td>
+            <td rowspan="12">Dec. 19</td>
             <td>9:10-9:50</td>
             <td><br>Speaker: Prof. Haibin Zhu<br>Title: From Group Role Assignment (GRA) to GRA with Constraints (GRA+) and GRA with Multiple Objectives (GRA++)</td>
             <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
