@@ -82,11 +82,10 @@ redirect_from:
     </ul>
 </div>
 
-<h1>ICIICII 2020 Program</h1>
-<p>(Dec. 18-19, 2020) China Standard Time, GMT+8</p>
-<h2>Keynote Speech (Zoom ID: 526 108 1124; Password:123456)</h2>
+<h2>ICIICII 2020 Program (Dec. 18-19, 2020) China Standard Time, GMT+8</h2>
+<p>Keynote Speech (Zoom ID: 526 108 1124; Password:123456)</p>
 
-<table>
+<table border="1">
     <thead>
         <tr>
             <th>Date</th>
@@ -108,7 +107,7 @@ redirect_from:
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td rowspan="3">Dec. 18</td>
+            <td rowspan="4">Dec. 18</td>
             <td>10:00-10:10</td>
             <td>Break</td>
             <td></td>
@@ -124,29 +123,28 @@ redirect_from:
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td rowspan="2">Dec. 18</td>
             <td>12:10-14:00</td>
             <td>Lunch & Break</td>
             <td></td>
         </tr>
         <tr>
+            <td rowspan="2">Dec. 18</td>
             <td>14:00-15:00 (Moscow time: 18th, 9:00-10:00am)</td>
             <td>Keynote Speech 5<br>Speaker: Prof. Leonid Ivanov<br>Title: To be confirmed</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td rowspan="2">Dec. 18</td>
             <td>15:00-16:00</td>
             <td>Keynote Speech 6<br>Speaker: Prof. Qingfu Zhang<br>Title: 启发性算法设计的几个问题</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
+            <td rowspan="2">Dec. 18</td>
             <td>16:00-16:10</td>
             <td>Break</td>
             <td></td>
         </tr>
         <tr>
-            <td rowspan="2">Dec. 18</td>
             <td>16:10-17:10 (United Kingdom Time: 18th, 8:10－9:10am)</td>
             <td>Keynote Speech 7<br>Speaker: Prof. Shane Xie<br>Title: Innovative Robotic Technology and Artificial Intelligence for the Future of Healthcare</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
@@ -164,9 +162,9 @@ redirect_from:
     </tbody>
 </table>
 
-<h2>Invited Speech Venue One (Zoom ID: 526 108 1124; Password:123456)</h2>
+<h3>Invited Speech Venue One (Zoom ID: 526 108 1124; Password:123456)</h3>
 
-<table>
+<table border="1">
     <thead>
         <tr>
             <th>Date</th>
@@ -198,12 +196,12 @@ redirect_from:
             <td>Jiajie Mo / Dr. Wenji Li</td>
         </tr>
         <tr>
+            <td rowspan="4">Dec. 19</td>
             <td>11:20-12:00 (Sydney Time: 19th, 14:20-15:00pm)</td>
             <td>Invited Speech 4<br>Speaker: Prof. Shiping Wen<br>Title: Memristor-based Neuromorphic Computing Systems</td>
             <td>Jiajie Mo / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td rowspan="4">Dec. 19</td>
             <td>12:00-14:00</td>
             <td>Lunch & Break</td>
             <td></td>
@@ -241,9 +239,9 @@ redirect_from:
     </tbody>
 </table>
 
-<h2>Invited Speech Venue Two (Zoom ID: 846 562 4744; Password:123456)</h2>
+<h3>Invited Speech Venue Two (Zoom ID: 846 562 4744; Password:123456)</h3>
 
-<table>
+<table border="1">
     <thead>
         <tr>
             <th>Date</th>
