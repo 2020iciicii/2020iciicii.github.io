@@ -243,7 +243,7 @@ redirect_from:
   }
 
   h3 {
-    font-size: 1.8em;
+    font-size: 1.5em;
     color: #2980B9;
     margin-top: 20px;
     margin-bottom: 10px;
