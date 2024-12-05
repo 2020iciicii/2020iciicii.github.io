@@ -95,7 +95,7 @@ redirect_from:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2">Dec. 18</td>
+            <td rowspan="12">Dec. 18</td>
             <td>8:00-9:00</td>
             <td>Keynote Speech 1<br>Speaker: Prof. Han Huang<br>Title: 从微搜索假设看进化计算方法</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
@@ -106,7 +106,6 @@ redirect_from:
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td rowspan="2">Dec. 18</td>
             <td>10:00-10:10</td>
             <td>Break</td>
             <td></td>
@@ -117,7 +116,6 @@ redirect_from:
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td rowspan="2">Dec. 18</td>
             <td>11:10-12:10</td>
             <td>Keynote Speech 4<br>Speaker: Prof. Dunwei Gong<br>Title: 进化优化与知识共融的软件变异测试</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
@@ -128,7 +126,6 @@ redirect_from:
             <td></td>
         </tr>
         <tr>
-            <td rowspan="2">Dec. 18</td>
             <td>14:00-15:00</td>
             <td>Keynote Speech 5<br>Speaker: Prof. Leonid Ivanov<br>Title: To be confirmed</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
@@ -139,7 +136,6 @@ redirect_from:
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td rowspan="4">Dec. 18</td>
             <td>16:00-16:10</td>
             <td>Break</td>
             <td></td>
@@ -171,7 +167,7 @@ redirect_from:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="4">Dec. 19</td>
+            <td rowspan="12">Dec. 19</td>
             <td>8:30-9:30</td>
             <td>Invited Speech 1<br>Speaker: Prof. Weihua Sheng<br>Title: ASCCBot: A Robotic Assistant for the Home Healthcare Industry</td>
             <td>Jiajie Mo / Dr. Wenji Li</td>
@@ -192,7 +188,6 @@ redirect_from:
             <td>Jiajie Mo / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td rowspan="8">Dec. 19</td>
             <td>11:20-12:00</td>
             <td>Invited Speech 4<br>Speaker: Prof. Shiping Wen<br>Title: Memristor-based Neuromorphic Computing Systems</td>
             <td>Jiajie Mo / Dr. Wenji Li</td>
@@ -244,7 +239,7 @@ redirect_from:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2">Dec. 19</td>
+            <td rowspan="4">Dec. 19</td>
             <td>9:10-9:50</td>
             <td>Invited Speech 11<br>Speaker: Prof. Haibin Zhu<br>Title: From Group Role Assignment (GRA) to GRA with Constraints (GRA+) and GRA with Multiple Objectives (GRA++)</td>
             <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
@@ -255,7 +250,6 @@ redirect_from:
             <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
         </tr>
         <tr>
-            <td rowspan="2">Dec. 19</td>
             <td>10:30-10:40</td>
             <td>Break</td>
             <td></td>
