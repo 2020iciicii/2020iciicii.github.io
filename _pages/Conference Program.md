@@ -227,7 +227,6 @@ redirect_from:
 <h3>Invited Speech Venue two (Zoom ID: 846 562 4744; Password: 123456)</h3>
     </tbody>
 </table>
-</div>
 
 <style>
   .conference-program-container {
