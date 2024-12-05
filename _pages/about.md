@@ -221,30 +221,15 @@ redirect_from:
             <td>Invited Speech 10<br>Speaker: Prof. Menglun Tao<br>Title: Smart materials and actuators for ultrasonic assisted machining and micro/nano positioning</td>
             <td>Yutong Yuan / Dr. Wenji Li</td>
         </tr>
-    </tbody>
-</table>
-
-<h3>Invited Speech Venue Two (Zoom ID: 846 562 4744; Password:123456)</h3>
-
-<table border="1">
-    <thead>
-        <tr>
-            <th>Date</th>
-            <th>Time</th>
-            <th>Content</th>
-            <th>Chair</th>
-        </tr>
-    </thead>
-    <tbody>
         <tr>
             <td rowspan="2">Dec. 19</td>
             <td>9:10-9:50</td>
-            <td>Invited Speech 1<br>Speaker: Prof. Haibin Zhu<br>Title: From Group Role Assignment (GRA) to GRA with Constraints (GRA+) and GRA with Multiple Objectives (GRA++)</td>
+            <td>Invited Speech 11<br>Speaker: Prof. Haibin Zhu<br>Title: From Group Role Assignment (GRA) to GRA with Constraints (GRA+) and GRA with Multiple Objectives (GRA++)</td>
             <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
         </tr>
         <tr>
             <td>9:50-10:30</td>
-            <td>Invited Speech 2<br>Speaker: Prof. Heping Chen<br>Title: Intelligent Manufacturing Processes Using Industrial Robots</td>
+            <td>Invited Speech 12<br>Speaker: Prof. Heping Chen<br>Title: Intelligent Manufacturing Processes Using Industrial Robots</td>
             <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
         </tr>
         <tr>
@@ -255,7 +240,7 @@ redirect_from:
         </tr>
         <tr>
             <td>10:40-11:20</td>
-            <td>Invited Speech 3<br>Speaker: Prof. Yiping Liu<br>Title: Handling imbalance between convergence and diversity in the decision space in evolutionary multi-modal multi-objective optimization</td>
+            <td>Invited Speech 13<br>Speaker: Prof. Yiping Liu<br>Title: Handling imbalance between convergence and diversity in the decision space in evolutionary multi-modal multi-objective optimization</td>
             <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
         </tr>
     </tbody>
