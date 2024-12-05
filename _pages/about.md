@@ -139,7 +139,7 @@ redirect_from:
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td rowspan="2">Dec. 18</td>
+            <td rowspan="4">Dec. 18</td>
             <td>16:00-16:10</td>
             <td>Break</td>
             <td></td>
@@ -181,7 +181,7 @@ redirect_from:
             <td>Jiajie Mo / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td rowspan="4">Dec. 19</td>
+            <td rowspan="8">Dec. 19</td>
             <td>11:20-12:00</td>
             <td>Invited Speech 4<br>Speaker: Prof. Shiping Wen<br>Title: Memristor-based Neuromorphic Computing Systems</td>
             <td>Jiajie Mo / Dr. Wenji Li</td>
