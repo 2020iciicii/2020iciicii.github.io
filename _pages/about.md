@@ -129,7 +129,7 @@ redirect_from:
         </tr>
         <tr>
             <td rowspan="2">Dec. 18</td>
-            <td>14:00-15:00 (Moscow time: 18th, 9:00-10:00am)</td>
+            <td>14:00-15:00</td>
             <td>Keynote Speech 5<br>Speaker: Prof. Leonid Ivanov<br>Title: To be confirmed</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
@@ -145,17 +145,17 @@ redirect_from:
             <td></td>
         </tr>
         <tr>
-            <td>16:10-17:10 (United Kingdom Time: 18th, 8:10－9:10am)</td>
+            <td>16:10-17:10</td>
             <td>Keynote Speech 7<br>Speaker: Prof. Shane Xie<br>Title: Innovative Robotic Technology and Artificial Intelligence for the Future of Healthcare</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td>17:10-18:10 (United Kingdom Time: 18th, 9:10-10:10am)</td>
+            <td>17:10-18:10</td>
             <td>Keynote Speech 8<br>Speaker: Prof. Shengxiang Yang<br>Title: Swarm Intelligence for Dynamic Optimization Problems</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td>18:10-19:10 (United Kingdom Time: 18th, 10:10-11:10am)</td>
+            <td>18:10-19:10</td>
             <td>Keynote Speech 9<br>Speaker: Prof. Yaochu Jin<br>Title: Communication-efficient federated learning</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
@@ -176,12 +176,12 @@ redirect_from:
     <tbody>
         <tr>
             <td rowspan="4">Dec. 19</td>
-            <td>8:30-9:30 (Central Standard Time: 18th, 18:30-19:30pm)</td>
+            <td>8:30-9:30</td>
             <td>Invited Speech 1<br>Speaker: Prof. Weihua Sheng<br>Title: ASCCBot: A Robotic Assistant for the Home Healthcare Industry</td>
             <td>Jiajie Mo / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td>9:30-10:30 (Pacific Standard Time: 18th, 17:30-18:30pm)</td>
+            <td>9:30-10:30</td>
             <td>Invited Speech 2<br>Speaker: Prof. Yantao Shen<br>Title: Adaptive Path Following of Underactuated Biomimetic Snake Robots</td>
             <td>Jiajie Mo / Dr. Wenji Li</td>
         </tr>
@@ -197,7 +197,7 @@ redirect_from:
         </tr>
         <tr>
             <td rowspan="4">Dec. 19</td>
-            <td>11:20-12:00 (Sydney Time: 19th, 14:20-15:00pm)</td>
+            <td>11:20-12:00</td>
             <td>Invited Speech 4<br>Speaker: Prof. Shiping Wen<br>Title: Memristor-based Neuromorphic Computing Systems</td>
             <td>Jiajie Mo / Dr. Wenji Li</td>
         </tr>
@@ -227,7 +227,7 @@ redirect_from:
             <td>Yutong Yuan / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td>16:40-17:20 (United Kingdom Time: 19th, 8:40-9:20am)</td>
+            <td>16:40-17:20</td>
             <td>Invited Speech 9<br>Speaker: Prof. Lijie Li<br>Title: Strain modulated nanomaterials with applications electronic and photonic systems</td>
             <td>Yutong Yuan / Dr. Wenji Li</td>
         </tr>
@@ -253,64 +253,14 @@ redirect_from:
     <tbody>
         <tr>
             <td rowspan="2">Dec. 19</td>
-            <td>9:10-9:50 (Eastern Standard Time: 18th, 20:10-20:50pm)</td>
-            <td>Invited Speech 1<br>Speaker: Prof. Haibin Zhu<br>Title: From Group Role Assignment (GRA) to GRA with Constraints (GRA+) and GRA with Multiple Objectives (GRA++)</td>
-            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+            <td>9:10-9:50</td>
+            <td>Invited Speech 1<br>Speaker: Prof. Bo Liu<br>Title: 基于多目标优化算法的资源调度与分配问题研究</td>
+            <td>Dr. Lin He / Dr. Wenji Li</td>
         </tr>
         <tr>
-            <td>9:50-10:30 (Central Standard Time: 18th, 19:50-20:30pm)</td>
-            <td>Invited Speech 2<br>Speaker: Prof. Heping Chen<br>Title: Intelligent Manufacturing Processes Using Industrial Robots</td>
-            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
-        </tr>
-        <tr>
-            <td>10:30-10:40</td>
-            <td>Break</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>10:40-11:20</td>
-            <td>Invited Speech 3<br>Speaker: Prof. Yiping Liu<br>Title: Handling imbalance between convergence and diversity in the decision space in evolutionary multi-modal multi-objective optimization</td>
-            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
-        </tr>
-        <tr>
-            <td>11:20-12:00</td>
-            <td>Invited Speech 4<br>Speaker: Prof. Zhenyuan Liu<br>Title: A Simulation-based Method for Designing Parameters of Material Price Adjustment Model in Large-scale Hydropower Development in China</td>
-            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
-        </tr>
-        <tr>
-            <td>12:00-14:00</td>
-            <td>Lunch & Break</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>14:00-14:40</td>
-            <td>Invited Speech 5<br>Speaker: Prof. Kun Liu<br>Title: Security and privacy of cyber-physical systems</td>
-            <td>Prof. Alex Noel Joseph Raj / Dr. Guijie Zhu</td>
-        </tr>
-        <tr>
-            <td>14:40-15:20</td>
-            <td>Invited Speech 6<br>Speaker: Prof. Jie Mei<br>Title: Simulation and experiment for Doubly-clamped Flexible Piezoelectric Energy Harvester</td>
-            <td>Prof. Alex Noel Joseph Raj / Dr. Guijie Zhu</td>
-        </tr>
-        <tr>
-            <td>15:20-16:00</td>
-            <td>Invited Speech 7<br>Speaker: Prof. Jiang Wu<br>Title: Can functional materials enhance the practicality of ultrasonic motors? A trial investigation.</td>
-            <td>Prof. Alex Noel Joseph Raj / Dr. Guijie Zhu</td>
-        </tr>
-        <tr>
-            <td>16:00-16:40</td>
-            <td>Invited Speech 8<br>Speaker: Prof. Zhijun Zhang<br>Title: Vary Parameter Recurrent Neural Network Applied to Intelligent Robots and Data Analysis</td>
-            <td>Prof. Alex Noel Joseph Raj / Dr. Guijie Zhu</td>
-        </tr>
-        <tr>
-            <td>16:40-17:20 (Croatia Time: 19th, 9:40-10:20am)</td>
-            <td>Invited Speech 9<br>Speaker: Prof. Miroslav Joler<br>Title: Challenges Toward Design and Fabrication of Smart(er) Clothing</td>
-            <td>Prof. Alex Noel Joseph Raj / Dr. Guijie Zhu</td>
-        </tr>
-        <tr>
-            <td>17:20-18:00 (New Delhi Time: 19th, 14:50-15:30pm)</td>
-            <td>Invited Speech 10<br>Speaker: Prof. Alex Noel Joseph Raj<br>Title: Hybrid U-NET models for lesion segmentation in Medical Images</td>
-            <td>Prof. Alex Noel Joseph Raj / Dr. Guijie Zhu</td>
+            <td>9:50-10:30</td>
+            <td>Invited Speech 2<br>Speaker: Prof. Chenglin Xu<br>Title: Applying evolutionary computation to the wireless sensor network problem</td>
+            <td>Dr. Lin He / Dr. Wenji Li</td>
         </tr>
     </tbody>
 </table>
