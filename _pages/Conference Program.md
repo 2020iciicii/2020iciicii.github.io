@@ -8,163 +8,225 @@ redirect_from:
 <div class="conference-program-container">
   <h1 class="program-title">Conference Program - ICIICII 2020</h1>
 
-  <!-- Dec. 16-18 -->
-  <h2>Conference Program - Dec. 18-19, 2020</h2>
-  <p>For all Zoom details, please refer to the "Registration" section.</p>
-
-  <!-- Program Table for Dec. 18 -->
-  <h3>Dec. 18, 2020</h3>
-  <table class="program-table">
+ <h2>ICIICII 2020 Program (Dec. 18-19, 2020) China Standard Time, GMT+8</h2>
+<h3>Keynote Speech (Zoom ID: 526 108 1124; Password: 123456)</h3>
+<table border="1">
     <thead>
-      <tr>
-        <th>Date</th>
-        <th>Time</th>
-        <th>Content</th>
-        <th>Chair</th>
-      </tr>
+        <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Content</th>
+            <th>Chair</th>
+        </tr>
     </thead>
     <tbody>
-      <tr>
-        <td rowspan="6">Dec. 18 AM</td>
-        <td>8:10-8:20</td>
-        <td>Opening Ceremony<br>Speaker: Prof. Zhifeng Hao (Shantou University)</td>
-        <td>Prof. Zhun Fan</td>
-      </tr>
-      <tr>
-        <td>8:20-9:10</td>
-        <td>Keynote/Invited Speech 1<br>Speaker: Prof. Qingfu Zhang (City University of Hong Kong)<br>Title: Decomposition Based Multiobjective Evolutionary Computation</td>
-        <td>Prof. Zhun Fan</td>
-      </tr>
-      <tr>
-        <td>9:10-9:30</td>
-        <td>Break</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>9:30-10:20</td>
-        <td>Keynote/Invited Speech 2<br>Speaker: Prof. Kaushik Rajashekara (University of Houston, USA)<br>Title: Power Electronics and Communications with Intelligent Control Enabled Smart Grid</td>
-        <td>Prof. Zhun Fan</td>
-      </tr>
-      <tr>
-        <td>10:20-10:30</td>
-        <td>Break</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>10:30-11:20</td>
-        <td>Keynote/Invited Speech 3<br>Speaker: Prof. Zengguang Hou<br>Title: Enhancement of Engagement Based on BCI for Rehabilitation Robotics</td>
-        <td>Prof. Zhun Fan</td>
-      </tr>
-      <tr>
-        <td rowspan="6">Dec. 18 PM</td>
-        <td>11:20-14:00</td>
-        <td>Lunch & Break</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>14:00-14:50</td>
-        <td>Keynote/Invited Speech 4<br>Speaker: Prof. Leonid Ivanov<br>Title: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</td>
-        <td>Prof. Zhun Fan</td>
-      </tr>
-      <tr>
-        <td>14:50-15:40</td>
-        <td>Keynote/Invited Speech 5<br>Speaker: Prof. Xinye Cai<br>Title: Some advances in Optimization based on Computational Intelligence and their applications in Aviation</td>
-        <td>Dr. Biao Xu / Dr. Wenji Li</td>
-      </tr>
-      <tr>
-        <td>15:40-15:50</td>
-        <td>Break</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>15:50-16:40</td>
-        <td>Keynote/Invited Speech 6<br>Speaker: Prof. Hui Li<br>Title: Variable-Length Optimization via Evolutionary Computation</td>
-        <td>Dr. Biao Xu / Dr. Wenji Li</td>
-      </tr>
-      <tr>
-        <td>16:40-17:30</td>
-        <td>Keynote/Invited Speech 7<br>Speaker: Prof. Zhou Zhao<br>Title: Intelligent Interaction-Oriented Multimodal Semantic Understanding</td>
-        <td>Dr. Biao Xu / Dr. Wenji Li</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <!-- Dec. 19 -->
-  <h3>Dec. 19, 2020</h3>
-  <table class="program-table">
+        <tr>
+            <td rowspan="12">Dec. 18</td>
+            <td>8:00-9:00</td>
+            <td><br>Speaker: Prof. Han Huang<br>Title: 从微搜索假设看进化计算方法</td>
+            <td>Prof. Zhun Fan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>9:00-10:00</td>
+            <td><br>Speaker: Prof. Bin Xin<br>Title: Aerial-Surface Cooperation of Heterogeneous Unmanned Vehicles in Complex Missions</td>
+            <td>Prof. Zhun Fan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>10:00-10:10</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:10-11:10</td>
+            <td><br>Speaker: Prof. Xiaomin Zhu<br>Title: Aggregation and emergence of swarm based on the evolution mechanism of organism</td>
+            <td>Prof. Zhun Fan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>11:10-12:10</td>
+            <td><br>Speaker: Prof. Dunwei Gong<br>Title: 进化优化与知识共融的软件变异测试</td>
+            <td>Prof. Zhun Fan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>12:10-14:00</td>
+            <td>Lunch & Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:00-15:00</td>
+            <td><br>Speaker: Prof. Leonid Ivanov<br>Title: To be confirmed</td>
+            <td>Prof. Zhun Fan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>15:00-16:00</td>
+            <td><br>Speaker: Prof. Qingfu Zhang<br>Title: 启发性算法设计的几个问题</td>
+            <td>Prof. Zhun Fan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>16:00-16:10</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>16:10-17:10</td>
+            <td><br>Speaker: Prof. Shane Xie<br>Title: Innovative Robotic Technology and Artificial Intelligence for the Future of Healthcare</td>
+            <td>Prof. Zhun Fan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>17:10-18:10</td>
+            <td><br>Speaker: Prof. Shengxiang Yang<br>Title: Swarm Intelligence for Dynamic Optimization Problems</td>
+            <td>Prof. Zhun Fan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>18:10-19:10</td>
+            <td><br>Speaker: Prof. Yaochu Jin<br>Title: Communication-efficient federated learning</td>
+            <td>Prof. Zhun Fan / Dr. Wenji Li</td>
+        </tr>
+<table border="1">
     <thead>
-      <tr>
-        <th>Date</th>
-        <th>Time</th>
-        <th>Content</th>
-        <th>Chair</th>
-      </tr>
+        <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Content</th>
+            <th>Chair</th>
+        </tr>
     </thead>
     <tbody>
-      <tr>
-        <td rowspan="5">Dec. 19 AM</td>
-        <td>8:30-9:20</td>
-        <td>Keynote/Invited Speech 1<br>Speaker: Prof. Arturo Suman Bretas (University of Florida, USA)<br>Title: Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation</td>
-        <td>Prof. Liyang Lai / Dr. Dongliang Wang</td>
-      </tr>
-      <tr>
-        <td>9:20-10:10</td>
-        <td>Keynote/Invited Speech 2<br>Speaker: Prof. Haibin Zhu (Nipissing University, Canada)<br>Title: E-CARGO and Role-Based Collaboration</td>
-        <td>Prof. Liyang Lai / Dr. Dongliang Wang</td>
-      </tr>
-      <tr>
-        <td>10:10-10:20</td>
-        <td>Break</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>10:20-11:10</td>
-        <td>Keynote/Invited Speech 3<br>Speaker: Prof. Han Huang<br>Title: Applications of Optimization Based on Computational Intelligence</td>
-        <td>Prof. Liyang Lai / Dr. Dongliang Wang</td>
-      </tr>
-      <tr>
-        <td>11:10-12:00</td>
-        <td>Keynote/Invited Speech 4<br>Speaker: Prof. Jianyong Sun<br>Title: Research on Optimization Algorithm Based on Artificial Intelligence -- Preliminary Progress</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td rowspan="7">Dec. 19 PM</td>
-        <td>12:00-14:00</td>
-        <td>Lunch & Break</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>14:00-14:50</td>
-        <td>Keynote/Invited Speech 5<br>Speaker: Prof. Xiaomin Zhu<br>Title: Research on the Aggregation and Emergence of Swarm Intelligence Based on the Evolutionary Mechanism of Organisms</td>
-        <td>Dr. Wenji Li / Dr. Yue Zhang</td>
-      </tr>
-      <tr>
-        <td>14:50-15:40</td>
-        <td>Keynote/Invited Speech 6<br>Speaker: Prof. Yun Liang<br>Title: Generic Interactive Pixel-level Image Editing</td>
-        <td>Dr. Wenji Li / Dr. Yue Zhang</td>
-      </tr>
-      <tr>
-        <td>15:40-15:50</td>
-        <td>Break</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>15:50-16:40</td>
-        <td>Keynote/Invited Speech 7<br>Speaker: Prof. Lijun Zhang<br>Title: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</td>
-        <td>Dr. Wenji Li / Dr. Yue Zhang</td>
-      </tr>
-      <tr>
-        <td>16:40-17:30</td>
-        <td>Keynote/Invited Speech 8<br>Speaker: Prof. Lijie Li (Swansea University, UK)<br>Title: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</td>
-        <td>Dr. Wenji Li / Dr. Yue Zhang</td>
-      </tr>
-      <tr>
-        <td>17:30-18:20</td>
-        <td>Keynote/Invited Speech 9<br>Speaker: Prof. Yaochu Jin<br>Title: Privacy-Preserving Data-Driven Evolutionary Optimization</td>
-        <td>Dr. Wenji Li / Dr. Yue Zhang</td>
-      </tr>
+        <tr>
+            <td rowspan="12">Dec. 19</td>
+            <td>8:30-9:30</td>
+            <td><br>Speaker: Prof. Weihua Sheng<br>Title: ASCCBot: A Robotic Assistant for the Home Healthcare Industry</td>
+            <td>Jiajie Mo / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>9:30-10:30</td>
+            <td><br>Speaker: Prof. Yantao Shen<br>Title: Adaptive Path Following of Underactuated Biomimetic Snake Robots</td>
+            <td>Jiajie Mo / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>10:30-10:40</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:40-11:20</td>
+            <td><br>Speaker: Prof. Kangshun Li<br>Title: 基于适应度景观的差分进化算法变异算子及参数选择研究</td>
+            <td>Jiajie Mo / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>11:20-12:00</td>
+            <td><br>Speaker: Prof. Shiping Wen<br>Title: Memristor-based Neuromorphic Computing Systems</td>
+            <td>Jiajie Mo / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>12:00-14:00</td>
+            <td>Lunch & Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:00-14:40</td>
+            <td><br>Speaker: Prof. Ke Tang<br>Title: Scalable Evolutionary Search</td>
+            <td>Yutong Yuan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>14:40-15:20</td>
+            <td><br>Speaker: Prof. Hailin Liu<br>Title: Evolutionary Multi- and Many-objective Optimization Algorithm Using Region Decomposition</td>
+            <td>Yutong Yuan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>15:20-16:00</td>
+            <td><br>Speaker: Prof. Hui Li<br>Title: On the population strategies in MOEA/D</td>
+            <td>Yutong Yuan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>16:00-16:40</td>
+            <td><br>Speaker: Prof. Xinye Cai<br>Title: 面向航空领域的智能优化方法与应用</td>
+            <td>Yutong Yuan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>16:40-17:20</td>
+            <td><br>Speaker: Prof. Lijie Li<br>Title: Strain modulated nanomaterials with applications electronic and photonic systems</td>
+            <td>Yutong Yuan / Dr. Wenji Li</td>
+        </tr>
+        <tr>
+            <td>17:20-18:00</td>
+            <td><br>Speaker: Prof. Menglun Tao<br>Title: Smart materials and actuators for ultrasonic assisted machining and micro/nano positioning</td>
+            <td>Yutong Yuan / Dr. Wenji Li</td>
+        </tr>
+<h3>Invited Speech Venue one (Zoom ID: 526 108 1124; Password: 123456)</h3>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Content</th>
+            <th>Chair</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="12">Dec. 19</td>
+            <td>9:10-9:50</td>
+            <td><br>Speaker: Prof. Haibin Zhu<br>Title: From Group Role Assignment (GRA) to GRA with Constraints (GRA+) and GRA with Multiple Objectives (GRA++)</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+        </tr>
+        <tr>
+            <td>9:50-10:30</td>
+            <td><br>Speaker: Prof. Heping Chen<br>Title: Intelligent Manufacturing Processes Using Industrial Robots</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+        </tr>
+        <tr>
+            <td>10:30-10:40</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:40-11:20</td>
+            <td><br>Speaker: Prof. Yiping Liu<br>Title: Handling imbalance between convergence and diversity in the decision space in evolutionary multi-modal multi-objective optimization</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+        </tr>
+        <tr>
+            <td>11:20-12:00</td>
+            <td><br>Speaker: Prof. Zhenyuan Liu<br>Title: A Simulation-based Method for Designing Parameters of Material Price Adjustment Model in Large-scale Hydropower Development in China</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+        </tr>
+        <tr>
+            <td>12:00-14:00</td>
+            <td>Lunch & Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:00-14:40</td>
+            <td><br>Speaker: Kun Liu<br>Title: Security and privacy of cyber-physical systems</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+        </tr>
+        <tr>
+            <td>14:40-15:20</td>
+            <td><br>Speaker: Prof. Jie Mei<br>Title: Title: Simulation and experiment for Doubly-clamped Flexible Piezoelectric Energy Harvester</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+        </tr>
+        <tr>
+            <td>15:20-16:00</td>
+            <td><br>Speaker: Prof. Jiang Wu<br>Title: Can functional materials enhance the practicality of ultrasonic motors? A trial investigation.</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+        </tr>
+        <tr>
+            <td>16:00-16:40</td>
+            <td><br>Speaker: Zhijun Zhang<br>Title: Vary Parameter Recurrent Neural Network Applied to Intelligent Robots and Data Analysis</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+        </tr>
+        <tr>
+            <td>16:40-17:20</td>
+            <td><br>Speaker: Prof. Miroslav Joler<br>Title: Challenges Toward Design and Fabrication of Smart(er) Clothing</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+        </tr>
+        <tr>
+            <td>17:20-18:00</td>
+            <td><br>Speaker: Prof. Alex Noel Joseph Raj<br>Title: Hybrid U-NET models for lesion segmentation in Medical Images</td>
+            <td>Prof. Liyang Lai / Dr. Guijie Zhu</td>
+        </tr>
+<h3>Invited Speech Venue two (Zoom ID: 846 562 4744; Password: 123456)</h3>
     </tbody>
-  </table>
+</table>
 </div>
 
 <style>
