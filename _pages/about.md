@@ -83,7 +83,7 @@ redirect_from:
 </div>
 
 <h2>ICIICII 2020 Program (Dec. 18-19, 2020) China Standard Time, GMT+8</h2>
-
+<h3>Keynote Speech (Zoom ID: 526 108 1124; Password: 123456)</h3>
 <table border="1">
     <thead>
         <tr>
@@ -159,6 +159,17 @@ redirect_from:
             <td>Keynote Speech 9<br>Speaker: Prof. Yaochu Jin<br>Title: Communication-efficient federated learning</td>
             <td>Prof. Zhun Fan / Dr. Wenji Li</td>
         </tr>
+<h3>Invited Speech Venue one (Zoom ID: 526 108 1124; Password: 123456)</h3>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Content</th>
+            <th>Chair</th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <td rowspan="4">Dec. 19</td>
             <td>8:30-9:30</td>
@@ -221,6 +232,17 @@ redirect_from:
             <td>Invited Speech 10<br>Speaker: Prof. Menglun Tao<br>Title: Smart materials and actuators for ultrasonic assisted machining and micro/nano positioning</td>
             <td>Yutong Yuan / Dr. Wenji Li</td>
         </tr>
+<h3>Invited Speech Venue two (Zoom ID: 846 562 4744; Password: 123456)</h3>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Content</th>
+            <th>Chair</th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <td rowspan="2">Dec. 19</td>
             <td>9:10-9:50</td>
